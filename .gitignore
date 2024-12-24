@@ -171,7 +171,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-app/
 downloads/
 eggs/
 .eggs/
@@ -318,7 +317,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-app/
 downloads/
 eggs/
 .eggs/
